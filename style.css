@@ -13,7 +13,7 @@ body {
     background-position: top center;
     background-size: 100% auto;
     background-repeat: no-repeat;
-    background-color: #121214;
+    background-color: #020413;
 }
 
 body * {
@@ -103,7 +103,7 @@ section ul li:hover {
 }
 
 .series-list img {
-    width: 70px;
+    width: 90px;
     border-radius: 8px;
 }
 
